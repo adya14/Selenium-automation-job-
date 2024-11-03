@@ -1,0 +1,7 @@
+{
+    "email" : "you_emailid",
+    "password" : "your_password",
+    "keywords" : "job_role_you_want_to_search_for",
+    "location" : "location",
+    "driver_path" : "path_to_driver",
+}
